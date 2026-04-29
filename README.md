@@ -245,25 +245,3 @@ vercel
 4. Set environment variables
 5. Deploy
 
-## 📚 Documentation
-
-- [Architecture Decision Records](./docs/adr/)
-- [API Documentation](./docs/API.md)
-- [Performance Analysis](./docs/PERFORMANCE.md)
-- [Deployment Guide](./docs/DEPLOYMENT.md)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-MIT License - see LICENSE file for details
-
-## 📧 Contact
-
-For questions or feedback, please open an issue on GitHub.
-
----
-
-**Built with ❤️ for FAANG interviews and production-grade applications**
